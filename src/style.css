@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", sans-serif;
+  background: #f9f9f9;
+}
+
+.app-layout {
+  display: flex;
+}
+
+.content {
+  flex: 1;
+  padding: 40px;
+}
